@@ -1,4 +1,4 @@
-#ChatBot Project
+# ChatBot Project
 
 A conversational AI-powered chatbot built to provide instant responses to user queries. This chatbot is designed to be lightweight, customizable, and easy to integrate into various platforms like websites, mobile apps, and chat applications.
 Features
